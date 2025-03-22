@@ -1,3 +1,4 @@
+##Decode image
 ![happynewyear](images/newyear.png)
 
-Toolsencode:[https://stylesuxx.github.io/steganography/]
+ToolsDecode:[https://stylesuxx.github.io/steganography/]
