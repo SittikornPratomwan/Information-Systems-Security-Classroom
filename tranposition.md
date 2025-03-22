@@ -4,7 +4,7 @@
 -**Tranposition** : Transposition is a cryptographic process used to conceal the content of a plaintext message by systematically reordering its elements such as 
 letters, digits, or bitsaccording to a predefined scheme or key.
 
-![IMG_0021.png](file/IMG_0021.png)
+![IMG_0021.png](images/IMG_0021.png)
 
 [image source https://images.app.goo.gl/RV24j9g1cS71TNAD9](https://images.app.goo.gl/RV24j9g1cS71TNAD9)
 
@@ -14,7 +14,7 @@ letters, digits, or bitsaccording to a predefined scheme or key.
 -**2nd Source(Tranposition)wikipidia**
 -a permutation which exchanges two elements and keeps all others fixed
 
-![IMG_0022.webp](file/IMG_1159.png)
+![IMG_0022.webp](images/IMG_1159.png)
 
 [image source https://images.app.goo.gl/B2HUYM2rk8XxCPXRA](https://images.app.goo.gl/B2HUYM2rk8XxCPXRA)
 
