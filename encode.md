@@ -1,1 +1,1 @@
-(images/newyear.png)
+!(images/newyear.png)
