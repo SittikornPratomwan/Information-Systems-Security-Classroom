@@ -1,1 +1,1 @@
-!(images/newyear.png)
+![happynewyear](images/newyear.png)
