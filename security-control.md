@@ -1,6 +1,6 @@
 #୨ Security Control
 
-![image](file/f231d323-5f36-4a5f-9983-f807ce6e3a79.jpg)
+![key](images/key.jpg)
 
 Type of Security Controls : Physical Control
 
