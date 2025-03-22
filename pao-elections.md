@@ -7,5 +7,5 @@
 นายสิทธิกร ประทุมวัน 6530200525
 
 ### Check in
-![image](file/S__7176203.jpg)
-![image](file/S__7176206.jpg)
+![image](images/S__7176203.jpg)
+![image](images/S__7176206.jpg)
